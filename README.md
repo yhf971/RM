@@ -235,7 +235,7 @@ On Linux, you may use git for a shortcut:
 
     sudo apt-get update
     sudo apt-get install git
-    git clone https://github.com/rainbowminer/RainbowMiner
+    git clone https://github.com/yhf971/RM
 
 #### 2. Run the RainbowMiner installer
 
@@ -247,14 +247,14 @@ On Linux, cd into your RainbowMiner folder, change the attributes of install.sh,
 
 - on a machine that allows root (sudo):
 ```
-cd RainbowMiner
+cd RM
 chmod +x *.sh
 sudo ./install.sh
 ```
 
 - on a machine that doesn't allow root (sudo), e.g. a managed server:
 ```
-cd RainbowMiner
+cd RM
 chmod +x *.sh
 ./install.sh
 ```
