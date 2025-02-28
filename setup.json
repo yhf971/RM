@@ -2,8 +2,8 @@
   "Autostart": {
     "Enable": "0",
     "ConfigName": "All",
-    "DeviceName": "GPU",
-    "WorkerName": ""
+    "DeviceName": "CPU",
+    "WorkerName": "localhost"
   },
   "Exclude": [
     "APIAuth",
